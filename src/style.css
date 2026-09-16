@@ -16,14 +16,14 @@
     box-sizing: border-box;
 }
 
-body {
+.body {
     font-family: var(--font-stack);
     background-color: var(--color-bg-main);
     color: var(--color-text-light);
     line-height: 1.6;
 }
 
-a {
+.a {
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -75,4 +75,16 @@ a {
 .menu-nav a:hover {
     color: var(--color-accent-gold);
 }
+.fondo{
+    background: #181818;
+    position: relative;
+}
 
+
+
+.imagen{
+    position: absolute;
+    height:300px;
+    width:600px;
+    right: 15px;
+}
