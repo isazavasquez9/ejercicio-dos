@@ -128,4 +128,12 @@
 .t3{
     color: var(--color-accent-gold);
     position: absolute;
+    top: 300px;
+    right:390px;
+}
+.t4{
+    color: #888888;
+    position: absolute;
+    top: 340px;
+    right: 130px;
 }
