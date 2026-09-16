@@ -137,3 +137,24 @@
     top: 340px;
     right: 130px;
 }
+.derechos{
+    color: #888888;
+    position: absolute;
+    top: 480px;
+
+}
+.sub{
+    color: #888888;
+}
+.face{
+    color: #b38f36;
+    position: absolute;
+    top: 480px;
+    right: 90px;
+}
+.inst{
+    color: #b38f36;
+    position: absolute;
+    top: 480px;
+    right: 190px; 
+}
