@@ -88,3 +88,25 @@
     width:600px;
     right: 15px;
 }
+.subtitulo{
+    color: var(--color-accent-gold);
+    position: absolute;
+    font-size: 2.5rem;
+    display: flex;
+    top: 100px;
+    left: 25px;
+    }
+    .subtitulo2{
+    color: var(--color-accent-gold);
+    position: absolute;
+    font-size: 2.5rem;
+    display: flex;
+    top: 150px;
+    left: 20px;
+}
+.subtitulo3{
+    position: absolute;
+    color: #888888;
+    top: 220px;
+    left: 20px;
+}
