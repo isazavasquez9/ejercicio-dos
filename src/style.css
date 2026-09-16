@@ -116,11 +116,16 @@
     top: 300px;
     left: 20px;
 }
-.t2{
+.t2 {
     color: #888888;
     position: absolute;
     top: 340px;
     left: 20px;
-    
-    
+}
+.t2 span{
+    display: block;
+}
+.t3{
+    color: var(--color-accent-gold);
+    position: absolute;
 }
